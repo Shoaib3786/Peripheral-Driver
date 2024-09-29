@@ -6,6 +6,7 @@ This includes writing header containing relevent addresses and source file for i
 **Hardware specification:**
 - STm32F411VE Discovery board.
 - STM32 ARM M3-Cortex series.
+- 32 bit Microcontroller.
 
 This code is written considering the industrial standards with proper documentation, do check it.
 
