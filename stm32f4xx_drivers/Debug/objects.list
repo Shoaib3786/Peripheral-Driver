@@ -1,0 +1,5 @@
+"./Src/001_ToggleLED_PushPull.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f411vetx.o"
+"./drivers/Src/stm32f411xx_gpio_drivers.o"
